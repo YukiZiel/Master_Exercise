@@ -9,6 +9,10 @@
     "parcel:build": "parcel build",
     "clean": "rimraf dist .parcel-cache"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YukiZiel/Master_Exercise.git"
+  },
   "devDependencies": {
     "parcel": "latest"
  
